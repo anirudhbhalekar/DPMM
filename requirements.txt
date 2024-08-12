@@ -1,0 +1,8 @@
+numpy
+openpyxl
+csv
+scipy 
+tqdm
+matplotlib
+pickle 
+sklearn
