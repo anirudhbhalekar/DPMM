@@ -17,3 +17,6 @@ clusterer.heat_map()
 clusterer.store_dpmm()
 ```
 
+For loading the file, we need the label column, and the two indices that define the span of the data-array. 
+Training will consider the training size, the number of components to use from PCA reduction, number of categories to discretize the labels to (set to -1 if the labels are already discretized), and the noise to be added (AWGN). 
+
